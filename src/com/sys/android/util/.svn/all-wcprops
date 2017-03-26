@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Android/!svn/ver/1672/trunk/AndroidXmppClient/src/com/sys/android/util
+END
+MyToast.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Android/!svn/ver/1670/trunk/AndroidXmppClient/src/com/sys/android/util/MyToast.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Android/!svn/ver/1678/trunk/AndroidXmppClient/src/com/sys/android/util/Utils.java
+END
+TransferUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Android/!svn/ver/1610/trunk/AndroidXmppClient/src/com/sys/android/util/TransferUtils.java
+END
+DialogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Android/!svn/ver/1571/trunk/AndroidXmppClient/src/com/sys/android/util/DialogFactory.java
+END
+TimeRender.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Android/!svn/ver/1597/trunk/AndroidXmppClient/src/com/sys/android/util/TimeRender.java
+END

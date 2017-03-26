@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Android/!svn/ver/1664/trunk/AndroidXmppClient/res/layout
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Android/!svn/ver/1631/trunk/AndroidXmppClient/res/layout/main.xml
+END
+register.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Android/!svn/ver/1592/trunk/AndroidXmppClient/res/layout/register.xml
+END
+friend_search_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Android/!svn/ver/1842/trunk/AndroidXmppClient/res/layout/friend_search_view.xml
+END
+formclient_chat_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Android/!svn/ver/1609/trunk/AndroidXmppClient/res/layout/formclient_chat_in.xml
+END
+formclient_chat_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Android/!svn/ver/1599/trunk/AndroidXmppClient/res/layout/formclient_chat_out.xml
+END
+friend_child_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Android/!svn/ver/1842/trunk/AndroidXmppClient/res/layout/friend_child_item.xml
+END
+dialog_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Android/!svn/ver/1571/trunk/AndroidXmppClient/res/layout/dialog_layout.xml
+END
+dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Android/!svn/ver/1703/trunk/AndroidXmppClient/res/layout/dialog.xml
+END
+friend_group_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Android/!svn/ver/1691/trunk/AndroidXmppClient/res/layout/friend_group_item.xml
+END
+friend_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Android/!svn/ver/1835/trunk/AndroidXmppClient/res/layout/friend_list.xml
+END
+loginpage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Android/!svn/ver/1839/trunk/AndroidXmppClient/res/layout/loginpage.xml
+END
+dialog_del_friend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Android/!svn/ver/1806/trunk/AndroidXmppClient/res/layout/dialog_del_friend.xml
+END
+chat_client.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Android/!svn/ver/1748/trunk/AndroidXmppClient/res/layout/chat_client.xml
+END
+dialog_mood.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Android/!svn/ver/1816/trunk/AndroidXmppClient/res/layout/dialog_mood.xml
+END
+friend_add.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Android/!svn/ver/1734/trunk/AndroidXmppClient/res/layout/friend_add.xml
+END

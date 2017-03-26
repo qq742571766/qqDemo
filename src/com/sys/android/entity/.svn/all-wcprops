@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Android/!svn/ver/1667/trunk/AndroidXmppClient/src/com/sys/android/entity
+END
+FriendInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Android/!svn/ver/1822/trunk/AndroidXmppClient/src/com/sys/android/entity/FriendInfo.java
+END
+ChatMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Android/!svn/ver/1784/trunk/AndroidXmppClient/src/com/sys/android/entity/ChatMsg.java
+END
+GroupInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Android/!svn/ver/1667/trunk/AndroidXmppClient/src/com/sys/android/entity/GroupInfo.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Android/!svn/ver/1673/trunk/AndroidXmppClient/src/com/sys/android/activity
+END
+FriendListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Android/!svn/ver/1855/trunk/AndroidXmppClient/src/com/sys/android/activity/FriendListActivity.java
+END
+RegisterActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Android/!svn/ver/1840/trunk/AndroidXmppClient/src/com/sys/android/activity/RegisterActivity.java
+END
+LoginActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Android/!svn/ver/1840/trunk/AndroidXmppClient/src/com/sys/android/activity/LoginActivity.java
+END
+WelcomeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Android/!svn/ver/1788/trunk/AndroidXmppClient/src/com/sys/android/activity/WelcomeActivity.java
+END
+ChatActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Android/!svn/ver/1856/trunk/AndroidXmppClient/src/com/sys/android/activity/ChatActivity.java
+END
+FriendAddActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Android/!svn/ver/1849/trunk/AndroidXmppClient/src/com/sys/android/activity/FriendAddActivity.java
+END
